@@ -16,7 +16,7 @@ Applied Library
 https://docs.oracle.com/javase/7/docs/api/java/util/Stack.html
 import java.util.Stack;
 
-![](T1-BalanceBrackets/br.com.teste.balance/src/br/com/teste/doc/view-library.png)
+![](br.com.teste.balance/src/br/com/teste/doc/view-library.png)
 
 
 
