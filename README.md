@@ -10,11 +10,11 @@ Returns
 [{()}](){} is valid = true
 []{() is not valid = false
 [{)] is not valid = false
-```
 
 Applied Library
 https://docs.oracle.com/javase/7/docs/api/java/util/Stack.html
-import java.util.Stack;
+import java.util.Stack
+```
 
 
 
