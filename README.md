@@ -5,10 +5,10 @@ The project contains a function(CheckParentesis) that uses a sequence of bracket
 This project was generated with [Java SE] version 8
 
 Returns
-● (){}[] is valid = true
-● [{()}](){} is valid = true
-● []{() is not valid = false
-● [{)] is not valid = false
+(){}[] is valid = true
+[{()}](){} is valid = true
+[]{() is not valid = false
+[{)] is not valid = false
 
 
 Applied Library
